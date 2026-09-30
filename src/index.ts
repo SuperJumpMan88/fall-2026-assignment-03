@@ -2,7 +2,11 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 import express from 'express';
+<<<<<<< HEAD
 import usersRouter from './routes/usersRoute.js';
+=======
+import usersRouter from './routes/users.js';
+>>>>>>> 7e1a8a41631dbd319ed5504b84dc22f44f65620c
 import ticketsRouter from './routes/tickets.js';
 
 export const app = express();

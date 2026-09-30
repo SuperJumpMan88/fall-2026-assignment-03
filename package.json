@@ -26,18 +26,27 @@
     "supertest"
   ],
   "dependencies": {
+<<<<<<< HEAD
     "bcrypt": "^6.0.0",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.3",
+=======
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+>>>>>>> 7e1a8a41631dbd319ed5504b84dc22f44f65620c
     "kysely": "^0.27.4",
     "pg": "^8.11.5"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+<<<<<<< HEAD
     "@types/bcrypt": "^6.0.0",
     "@types/express": "^4.17.21",
     "@types/jsonwebtoken": "^9.0.10",
+=======
+    "@types/express": "^4.17.21",
+>>>>>>> 7e1a8a41631dbd319ed5504b84dc22f44f65620c
     "@types/node": "^20.12.7",
     "@types/pg": "^8.11.5",
     "@types/supertest": "^6.0.2",
